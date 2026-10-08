@@ -1,0 +1,6 @@
+{
+  "name": "DactyloPro — Maîtrise de la Frappe à Dix Doigts",
+  "description": "Plateforme professionnelle d'apprentissage de la dactylographie à dix doigts : cours progressif, clavier et mains virtuels en temps réel, moteur de frappe adaptatif, coach IA et jeux d'entraînement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
